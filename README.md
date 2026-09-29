@@ -1,10 +1,10 @@
 <div align="center">
 
   <h1>Fathan</h1>
-  <p><strong>Software Engineer &bull; Full-Stack Developer</strong></p>
+  <p><strong>Software Engineer &bull; Full-Stack Web Developer</strong></p>
 
   <a href="https://github.com/fathan3">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Building+scalable+%26+high-performance+web+applications;Passionate+about+clean+code+and+modern+architecture;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Building+scalable+and+high-performance+web+applications;Passionate+about+clean+code+and+modern+architecture;Designing+robust+APIs+and+seamless+user+interfaces" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -30,7 +30,7 @@
 
 ## Profile
 
-Software Engineer specializing in full-stack web development. Experienced in building scalable backend architectures, responsive modern frontends, and reliable API services. Focused on clean code, system performance, and maintainable software design.
+Software Engineer specializing in full-stack web development. Focused on building maintainable backend architectures, responsive modern frontends, and robust API integrations.
 
 ```typescript
 interface Developer {
@@ -40,7 +40,7 @@ interface Developer {
   languages: string[];
   frameworks: string[];
   databases: string[];
-  interests: string[];
+  focus: string;
 }
 
 const fathan: Developer = {
@@ -50,18 +50,20 @@ const fathan: Developer = {
   languages: ["TypeScript", "JavaScript", "PHP", "Python", "SQL"],
   frameworks: ["React", "Next.js", "Vue.js", "Node.js", "Express", "Laravel", "NestJS"],
   databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-  interests: ["System Architecture", "Cloud Infrastructure", "Open Source"]
+  focus: "Scalable Architecture & Clean Code"
 };
 ```
 
 ---
 
-## Tech Stack
+## Tech Stack & Tools
 
 <div align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,vue,tailwind,nodejs,express,laravel,nestjs,postgres,mysql,mongodb,redis,docker,git,linux,postman,figma&theme=dark&perline=11" alt="Tech Stack" />
   </a>
+
 </div>
 
 ---
@@ -69,18 +71,18 @@ const fathan: Developer = {
 ## GitHub Statistics
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=fathan3&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&border_color=21262D&hide_border=false" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fathan3&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&border_color=21262D&hide_border=false" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathan3&theme=dark&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=21262D" width="100%" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=fathan3&theme=dark&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" alt="Streak Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathan3&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&border_color=21262D&hide_border=false" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fathan3&layout=compact&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&border_color=21262D&hide_border=false" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -91,11 +93,11 @@ const fathan: Developer = {
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathan3&theme=github-compact&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=8B949E&hide_border=false&border_color=21262D" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph-tau.vercel.app/graph?username=fathan3&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=false&border_color=21262D" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>&copy; Fathan. All rights reserved.</sub>
+  <sub>&copy; 2026 Fathan. Built with precision and clean code.</sub>
 </div>
