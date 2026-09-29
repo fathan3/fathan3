@@ -36,7 +36,11 @@ Software engineer focused on practical web engineering and mobile development. E
 ### Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fathan3/fathan3/output/pacman.svg" width="100%" alt="Pacman Contribution Arcade" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathan3/fathan3/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathan3/fathan3/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Arcade Contribution Graph" src="https://raw.githubusercontent.com/fathan3/fathan3/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
