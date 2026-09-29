@@ -33,7 +33,19 @@ Software engineer focused on practical web engineering and mobile development. E
 
 ---
 
-### GitHub Overview
+### Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathan3/fathan3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathan3/fathan3/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/fathan3/fathan3/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### Activity & Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fathan3&show_icons=true&theme=dark&bg_color=00000000&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&border_color=30363D&hide_border=false" alt="GitHub Stats" />
