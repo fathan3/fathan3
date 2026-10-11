@@ -2,7 +2,7 @@
 
 Informatics Engineering Student
 
-[Email](mailto:fathanra311@gmail.com) &bull; [LinkedIn](https://www.linkedin.com/in/fathan-ruhul-alam-5422b5218/) &bull; [GitHub](https://github.com/fathan3) &bull; [Portfolio](fathanruhulalam.my.id)
+[Email](mailto:fathanra311@gmail.com) &bull; [LinkedIn](https://www.linkedin.com/in/fathan-ruhul-alam-5422b5218/) &bull; [GitHub](https://github.com/fathan3) &bull; [Portfolio](https://www.fathanruhulalam.my.id/)
 
 ---
 
